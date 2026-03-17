@@ -1,7 +1,21 @@
+<style>
+.container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+</style>
+
 <div align="center">
   <h1>Welcome to my profile</h1>
-<div>
 </div>
+<div >
   <p align="center">
     <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif" width=200p height=200p />
   </p>
