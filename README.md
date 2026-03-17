@@ -2,7 +2,7 @@
   <h1>Welcome to my profile</h1>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-direction:row; justify-content: center; align-items: center; flex-wrap: wrap;">
   
   <div>
     <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif" width="200" height="200" />
