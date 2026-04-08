@@ -14,10 +14,4 @@
      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   </div>
 
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Asyrics&theme=transparent" alt="Anurag's GitHub stats" />
-    </a>
-  </div>
-
 </div>
